@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.edit{
+  color: rgb(0, 149, 255);
+
+}
+.delete{
+  color: red;
+}
